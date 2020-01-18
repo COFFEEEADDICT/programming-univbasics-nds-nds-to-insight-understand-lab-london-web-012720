@@ -12,4 +12,4 @@ def print_first_directors_movie_titles
 end
 
 
-puts pretty_print_nds(nds)
+p pretty_print_nds(nds)
